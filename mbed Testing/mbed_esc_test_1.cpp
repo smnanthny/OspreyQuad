@@ -1,7 +1,7 @@
 /*
     OspreyQuad Project
     ~~~~~~~~~~~~~~~~~~~~~~~~
-    Title: mbed_esc_test_1
+    Title: ESC Test 1
     Author: Simon Anthony
     Created: 21/12/2013
 */

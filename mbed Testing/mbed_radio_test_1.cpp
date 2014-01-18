@@ -1,7 +1,7 @@
 /*
     OspreyQuad Flight Controller
     ----------------------------
-    Title: Receiver Testing
+    Title: Radio Test 1
     Author: Simon Anthony
     Last Edited: 18/01/2014
 */
